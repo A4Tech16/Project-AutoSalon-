@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSalon", "AutoSalon\AutoSalon.csproj", "{0A8499CD-A9F6-44C8-B250-DE729C5D390E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A8499CD-A9F6-44C8-B250-DE729C5D390E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8499CD-A9F6-44C8-B250-DE729C5D390E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8499CD-A9F6-44C8-B250-DE729C5D390E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8499CD-A9F6-44C8-B250-DE729C5D390E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D81E45BD-C04A-4E20-AE4D-D1D9DCFD19C0}
+	EndGlobalSection
+EndGlobal
